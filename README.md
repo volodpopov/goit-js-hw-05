@@ -1,2 +1,2 @@
 # goit-js-hw-05
-js-homework-04
+js-homework-05
